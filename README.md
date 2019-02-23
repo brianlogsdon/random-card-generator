@@ -10,7 +10,7 @@ A site that generates a random playing card on each refresh.
 ## View the Project
 
 
-https://random-card-generator-brianlogsdon.c9users.io/index.html
+https://brianlogsdon.github.io/random-card-generator/
 
 ## Authors
 
